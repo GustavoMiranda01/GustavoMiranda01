@@ -2,7 +2,7 @@
 ![Developer](https://github.com/GustavoMiranda01/GustavoMiranda01/assets/134244620/0f3181a3-c507-4dae-8edd-8aa4bbea1d4a)
 
 Olá!
-Eu sou Gustavo Miranda, sou um dev apaixonado por tecnologia!
+Eu sou Gustavo Miranda, um dev apaixonado por tecnologia!
 
 Este é o espaço onde passo a maior parte do tempo, onde a imaginação e a criatividade se transformam em código, atualmente crio projetos com:
 <br>
