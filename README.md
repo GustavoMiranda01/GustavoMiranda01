@@ -1,5 +1,6 @@
-Olá :clap:
 
+
+Olá!
 Eu sou Gustavo Miranda, sou um dev apaixonado por tecnologia!
 
 Este é o espaço onde passo a maior parte do tempo, onde a imaginação e a criatividade se transformam em código, atualmente crio projetos com:
@@ -12,3 +13,6 @@ Este é o espaço onde passo a maior parte do tempo, onde a imaginação e a cri
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMiranda01)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,tailwind,materialui,styledcomponents,express,git,figma,powershell,vscode
+)](https://skillicons.dev)
