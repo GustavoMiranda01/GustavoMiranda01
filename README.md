@@ -1,4 +1,5 @@
 
+![Developer](https://github.com/GustavoMiranda01/GustavoMiranda01/assets/134244620/0f3181a3-c507-4dae-8edd-8aa4bbea1d4a)
 
 Olá!
 Eu sou Gustavo Miranda, sou um dev apaixonado por tecnologia!
