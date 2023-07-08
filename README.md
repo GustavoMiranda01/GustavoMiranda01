@@ -1,5 +1,6 @@
 
-![Developer](https://github.com/GustavoMiranda01/GustavoMiranda01/assets/134244620/0f3181a3-c507-4dae-8edd-8aa4bbea1d4a)
+![Img-Derveloper](https://github.com/GustavoMiranda01/GustavoMiranda01/assets/134244620/de4d4c3c-b1f4-4484-b15d-5fa8c6db17a7)
+
 
 Olá!
 Eu sou Gustavo Miranda, um dev apaixonado por tecnologia!
