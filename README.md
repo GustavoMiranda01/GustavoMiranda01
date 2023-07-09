@@ -3,11 +3,10 @@
 
 <p align="left">
 Olá!
-Eu sou Gustavo Miranda, um dev apaixonado por tecnologia!.</strong>
-</p>
+Meu nome é Gustavo Miranda, um dev fascinado por tecnologia!.</p>
 
 <p align="left">
-Este é o espaço onde passo a maior parte do tempo, onde a imaginação e a criatividade se transformam em código, atualmente crio projetos com as tecnologias: <strong>HTML, CSS, JavaScript, React.JS, Node.JS, Next.JS, TypesScript.</strong>
+Este é o meu ambiente favorito, onde as ideias e a inovação viram código, atualmente crio projetos com as tecnologias: <strong>HTML, CSS, JavaScript, React.JS, Node.JS, Next.JS, TypesScript.</strong>
 </p>
 
 <p align="left">
