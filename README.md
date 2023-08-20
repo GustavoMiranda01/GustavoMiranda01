@@ -23,7 +23,7 @@ Tools: <strong>Vs code studio, Git/GitHub, FIGMA, GIMP.</strong>
  <br> 
  <br>
   
- <div align="center">
+ <div align="left">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMiranda01)](https://github.com/anuraghazra/github-readme-stats)
 
