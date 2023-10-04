@@ -6,7 +6,7 @@ Olá!
 Meu nome é Gustavo Miranda, um dev fascinado por tecnologia!.</p>
 
 <p align="left">
-Este é o meu ambiente favorito, onde as ideias e a inovação viram código, atualmente crio projetos com as tecnologias: <strong>HTML 5, CSS 3, JavaScript, React.JS, Node.JS.</strong>
+Este é o meu ambiente favorito, onde as ideias e a inovação viram código, atualmente crio projetos com as tecnologias abaixo.
 </p>
 
 <p align="left">
