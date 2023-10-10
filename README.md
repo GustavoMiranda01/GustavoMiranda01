@@ -25,8 +25,6 @@ Tools: <strong>Vs code studio, Git/GitHub, FIGMA.</strong>
   
  <div align="left">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMiranda01)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,git,figma,vscode
 )](https://skillicons.dev)
 
