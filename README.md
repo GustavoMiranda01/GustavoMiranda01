@@ -1,5 +1,5 @@
 
-![Img-Derveloper](https://github.com/GustavoMiranda01/GustavoMiranda01/assets/134244620/de4d4c3c-b1f4-4484-b15d-5fa8c6db17a7)
+![Img-Derveloper](https://media.licdn.com/dms/image/D4E16AQFhu3k3Rreskg/profile-displaybackgroundimage-shrink_350_1400/0/1697623454426?e=1703721600&v=beta&t=ScJkLMYNA32fdy1RvFC54VMRHyluEup1kBs2mKp3_vU)
 
 <p align="left">
 Olá!
