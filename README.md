@@ -10,7 +10,7 @@ Este é o meu ambiente favorito, onde as ideias e a inovação viram código, at
 </p>
 
 <p align="left">
-Tools: <strong>Vs code, Git/GitHub, FIGMA.</strong>
+Tools: <strong>Vscode, Git/GitHub, FIGMA.</strong>
 </p>
 
 <div> 
