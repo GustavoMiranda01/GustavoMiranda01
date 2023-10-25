@@ -7,13 +7,13 @@
      <a href="https://wa.me/+5548996899870" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
 
-<h2>Um dev fascinado por tecnologia!.</h2>
+<h2>A developer fascinated by technology!.</h2>
 <h3 align="left">
-Este é o meu ambiente favorito, onde as ideias e a inovação viram código.
+This is my favorite environment, where ideas and innovation become code.
 </h3>
-<p>Sou apaixonado por tecnologia! Desde a infância, quando tive meu primeiro contato com informática, tenho explorado e descoberto cada vez mais sobre esse campo fascinante. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meu conhecimento e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos, e também tenho o desejo de morar nos Havai ou no Canadá por um período de tempo.</p>
+<p>I'm passionate about technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Hawaii or Canada for a period of time.</p>
 
-<p>Tenho conhecimentos em: HTML, CSS, JavaScript, Node.js, React, TypeScript, Git.</p>
+<p>I have knowledge in: HTML 5, CSS 3, JavaScript, Node.js, React, TypeScript, Git.</p>
 <div align="left">
  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,git,figma,vscode
