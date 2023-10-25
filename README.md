@@ -13,6 +13,7 @@ This is my favorite environment, where ideas and innovation become code.
 
 <p>I have knowledge in: HTML 5, CSS 3, JavaScript, Node.js, React, TypeScript, Git.</p>
 <p>You can contact me by email:<a href="mailto:gustavomiranda.contato@outlook.com">gustavomiranda.contato@outlook.com</a>.</p>
+<br>
 
 <div align="left">
  
