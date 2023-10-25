@@ -6,12 +6,10 @@
      <a href="https://www.linkedin.com/mwlite/in/gustavo-miranda-b87a73276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://wa.me/+5548996899870" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
-
-<h2>A developer fascinated by technology!.</h2>
-<h3 align="left">
+<h2 align="left">
 This is my favorite environment, where ideas and innovation become code.
-</h3>
-<p>I'm passionate about technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Hawaii or Canada for a period of time.</p>
+</h2>
+<p>A developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Hawaii or Canada for a period of time.</p>
 
 <p>I have knowledge in: HTML 5, CSS 3, JavaScript, Node.js, React, TypeScript, Git.</p>
 <div align="left">
