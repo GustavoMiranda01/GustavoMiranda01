@@ -13,9 +13,6 @@ Este é o meu ambiente favorito, onde as ideias e a inovação viram código.
 </h3>
 <p>Sou apaixonado por tecnologia! Desde a infância, quando tive meu primeiro contato com informática, tenho explorado e descoberto cada vez mais sobre esse campo fascinante. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meu conhecimento e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos, e também tenho o desejo de morar nos Havai ou no Canadá por um período de tempo.</p>
 
-<p align="left">
-Tools: <strong>Vscode, Git/GitHub, FIGMA, Insomnia.</strong>
-</p>
 <p>Tenho conhecimentos em: HTML, CSS, JavaScript, Node.js, React, TypeScript, Git.</p>
 <div align="left">
  
