@@ -1,17 +1,4 @@
-
-![Img-Derveloper](https://media.licdn.com/dms/image/D4E16AQFhu3k3Rreskg/profile-displaybackgroundimage-shrink_350_1400/0/1697623454426?e=1703721600&v=beta&t=ScJkLMYNA32fdy1RvFC54VMRHyluEup1kBs2mKp3_vU)
-
-<p align="left">
-Olá!
-Meu nome é Gustavo Miranda, um dev fascinado por tecnologia!.</p>
-
-<p align="left">
-Este é o meu ambiente favorito, onde as ideias e a inovação viram código, atualmente crio projetos com as tecnologias abaixo.
-</p>
-
-<p align="left">
-Tools: <strong>Vscode, Git/GitHub, FIGMA, Insomnia.</strong>
-</p>
+<h1> Hi, I'm Gustavo Miranda 👨🏻‍💻</h1>
 
 <div> 
      <a href="https://instagram.com/mirandagustavo__?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -19,15 +6,26 @@ Tools: <strong>Vscode, Git/GitHub, FIGMA, Insomnia.</strong>
      <a href="https://www.linkedin.com/mwlite/in/gustavo-miranda-b87a73276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://wa.me/+5548996899870" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
- 
- <br> 
- <br>
-  
- <div align="left">
+
+<h2>Um dev fascinado por tecnologia!.</h2>
+<h3 align="left">
+Este é o meu ambiente favorito, onde as ideias e a inovação viram código.
+</h3>
+<p>Sou realmente apaixonado por tecnologia! Desde a infância, quando tive meu primeiro contato com informática, tenho explorado e descoberto cada vez mais sobre esse campo fascinante. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meu conhecimento e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos, e também tenho o desejo de morar nos EUA ou no Canadá por um período de tempo.</p>
+
+<p align="left">
+Tools: <strong>Vscode, Git/GitHub, FIGMA, Insomnia.</strong>
+</p>
+<p>Tenho conhecimentos em: HTML, CSS, JavaScript, Node.js, React, TypeScript, Git.</p>
+<div align="left">
  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,git,figma,vscode
 )](https://skillicons.dev)
 
   </div>
   
-  <br>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMiranda01&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoMiranda01&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoMiranda01&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMiranda01&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoMiranda01&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
