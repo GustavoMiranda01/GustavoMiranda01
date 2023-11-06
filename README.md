@@ -11,13 +11,13 @@ This is my favorite environment, where ideas and innovation become code.
 </h2>
 <p>A developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Suíça or Canada for a period of time.</p>
 
-<p>I have knowledge in: HTML 5, CSS 3, JavaScript, Node.js, React.js, TypeScript, Git.</p>
+<p>I have knowledge in: HTML 5, CSS 3, JavaScript, Node.js, React.js, Git.</p>
 <p>You can contact me by email:<a href="mailto:gustavomiranda.contato@outlook.com">gustavomiranda.contato@outlook.com</a>.</p> 
 <br>
 
 <div align="left">
  
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,git,figma,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode
 )](https://skillicons.dev)
 
   </div>
