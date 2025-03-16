@@ -1,7 +1,6 @@
 <h1> Hi, I'm Gustavo Miranda! 💻</h1>
 
 <div> 
-     <a href="https://instagram.com/mirandagustavo__?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
      <a href = "mailto:gustavomiranda.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
      <a href="https://www.linkedin.com/mwlite/in/gustavo-miranda-b87a73276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://wa.me/+5548996899870" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -17,7 +16,7 @@ This is my favorite environment, where ideas and innovation become code.
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode
 )](https://skillicons.dev)
 
   </div>
