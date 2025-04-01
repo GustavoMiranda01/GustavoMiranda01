@@ -5,10 +5,8 @@
      <a href="https://www.linkedin.com/mwlite/in/gustavo-miranda-b87a73276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://wa.me/+5548996899870" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
-<h2 align="left">
-This is my favorite environment, where ideas and innovation become code.
-</h2>
-<p>I'm a developer who's passionate about technology! I believe that technology offers incredible opportunities to improve people's lives. I believe that access to knowledge is essential for everyone.</p>
+<h2 align="left"> </h2>
+<p>I am a systems analysis and development student! I believe that technology offers incredible opportunities to improve people's lives.</p>
 
 <p>You can contact me by email:<a href="mailto:gustavomiranda.contato@outlook.com">gustavomiranda.contato@outlook.com</a>.</p> 
 <br>
