@@ -12,12 +12,4 @@
 <br>
 
 <p>I have knowledge in: HTML, CSS, JavaScript, React, Node.Js, Git.</p>
-<div align="left">
 
-
-
-  </div>
-  
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMiranda01&theme=nord_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoMiranda01&hide=Html&theme=nord_dark)  
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMiranda01&theme=nord_dark)  
